@@ -8,6 +8,18 @@ namespace Treugolnik_Cifr
 {
     class Program
     {
+        /* .כתוב תוכנית הקולטת מספר ומדפיסה את המשולש הבא:
+            לדוגמא עבור: 4
+            
+            1
+            12
+            1234
+            123
+            12
+            1
+            
+            */
+        
         static void Main(string[] args)
         {
 
