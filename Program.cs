@@ -45,29 +45,6 @@ namespace Treugolnik_Cifr
                 mult /= 10;
                 Console.WriteLine(mult);
             }
-
-            /*for (int i=1; i<=num;i++)
-              {
-                    for (int j=1; j<=i; j++)
-                    {
-                        if (i == num - 1)
-                            break;
-                        if (j!=i-1)
-                            Console.Write(j);
-                        else
-                            Console.WriteLine(j);
-                    }
-              }
-            for (int i = num-1; i>0;i--)
-             {
-                for (int j = 1; j <= i; j++)
-                {
-                    if (j != i - 1)
-                        Console.Write(j);
-                    else
-                        Console.WriteLine(j);
-                }
-            }*/
         }
     }
 }
